@@ -1,0 +1,22 @@
+{
+	"_source": "METI DX White Paper 2022 (DX白書2022) — SME segment averages",
+	"_note": "Values represent approximate dimension averages for Japanese SMEs (従業員300人未満)",
+	"_scale": "0.0 to 4.0 (METI DX Promotion Index)",
+	"_year": 2022,
+	"dimension_averages": {
+		"1": 1.5,
+		"2": 1.3,
+		"3": 1.4,
+		"4": 1.6,
+		"5": 1.2
+	},
+	"dimension_labels": {
+		"1": "Strategy & Vision / 戦略・ビジョン",
+		"2": "Business Process / 業務プロセス",
+		"3": "Organization & Human Capital / 組織・人材",
+		"4": "Digital Foundation & Data / デジタル基盤・データ",
+		"5": "Governance & Risk / ガバナンス・リスク管理"
+	},
+	"overall_sme_average": 1.4,
+	"sample_size_note": "Based on aggregated self-assessment responses from ~1,800 SMEs"
+}
