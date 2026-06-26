@@ -34,7 +34,8 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Notes
+link direto:
+https://shinkyouagent-bfsxipybce2bimdqsm8rkg.streamlit.app/
 
 - The project follows the METI DX Promotion Index framework.
 - All user-facing text should go through the i18n layer.
